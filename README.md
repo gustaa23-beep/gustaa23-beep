@@ -1,6 +1,6 @@
 
  <h1>Fala Dev!!!</h1>
- <h3>Prazer...<code>Gustavo</code>! <img align="center-right" height="30" width="40" src="https://bit.ly/3AKD9yc"></h3>
+ <h3>Prazer...<code>Gustavo</code>! <img align="center-right" height="40" width="60" src="https://bit.ly/3AKD9yc"></h3>
  
 <div>
   <a href="https://github.com/gustaa23-beep">
