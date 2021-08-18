@@ -18,7 +18,11 @@
 </div>
 
 ##
+<p align="center"> 
 
-<div style="display: inline_block"><br>
- <img src="https://komarev.com/ghpvc/?username=gustaa23-beep&color=green" alt="gustaa23-beep"/> 
-</div>
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+ </p>
+
+</p>
